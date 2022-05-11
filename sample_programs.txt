@@ -1,0 +1,13 @@
+
+hello_world = "........__.,.....__.,...,....,....,..,-,-,-,--.__,..,..,.-,.,..__.,-.__,--.__,.,.,_,.---,_.......,_,_...,_,.,.,_,--,_,-,_...,_------,_--------,_"
+(outputs "Hello World")
+
+output_ASCII = "_,,_"
+(takes ASCII code of 3 integers and outputs ASCII value, if user wants ASCII value with a code of less than 3 integers just use a space instead.
+For example a code of "49 " == 1)
+
+string_reverse = ".__.,._,.__,--__..,_,--.__"
+(can use "72 10110810811132 87 1111141081000" to reverse hello world) 
+
+addition = "_,,-_,__.,..,--.__,.,_"
+(adds two numbers and outputs ASCII value of sum)
