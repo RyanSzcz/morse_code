@@ -10,4 +10,6 @@ string_reverse = ".__.,._,.__,--__..,_,--.__"
 (can use "72 10110810811132 87 1111141081000" to reverse hello world) 
 
 addition = "_,,-_,__.,..,--.__,.,_"
-(adds two numbers and outputs ASCII value of sum)
+(adds two numbers and outputs ASCII value of sum.
+User must enter 3 integers as code or code for ASCII followed by spaces.
+For example "25 25 " = 2)
